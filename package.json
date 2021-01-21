@@ -51,7 +51,8 @@
     "@osjs/standard-theme": "^4.0.9",
     "@osjs/textpad-application": "^1.2.7",
     "hyperapp": "^1.2.10",
-    "typeface-roboto": "0.0.75"
+    "typeface-roboto": "0.0.75",
+    "webpack":"5.16.0"
   },
   "repository": {
     "type": "git",
