@@ -18,7 +18,6 @@
     "make:iframe-application": "osjs-cli make:iframe-application",
     "make:provider": "osjs-cli make:provider",
     "build": "webpack",
-    "heroku-postbuild":"webpack -p",
     "watch": "webpack --watch"
   },
   "keywords": [
