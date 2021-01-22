@@ -17,9 +17,8 @@
     "make:application": "osjs-cli make:application",
     "make:iframe-application": "osjs-cli make:iframe-application",
     "make:provider": "osjs-cli make:provider",
-    "build": "webpack",
-    "watch": "webpack --watch",
-    "heroku-postinstall":"npm install -D webpack-cli && webpack"
+    "build": "npm install -D webpack-cli && webpack",
+    "watch": "webpack --watch"
   },
   "keywords": [
     "osjs"
